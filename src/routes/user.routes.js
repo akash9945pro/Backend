@@ -16,6 +16,6 @@ router.route("/register").post(
             maxCount: 1
           }
     ]),
-    registerUser); // typo fixed: "registere" -> "register"
+    registerUser); 
 
 export default router;
